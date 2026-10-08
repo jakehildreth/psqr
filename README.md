@@ -16,7 +16,7 @@ PSQR requires the `qrencode` utility to be installed on your system.
 
 - **macOS:** `brew install qrencode`
 - **Linux:** `sudo apt-get install qrencode`
-- **Windows:** `scoop install qrencode` or `choco install qrencode`
+- **Windows:** `scoop install qrencode` or `choco install qrencode` or `winget install -e --id PedroAlbanese.QREncode`
 
 ## Usage
 
